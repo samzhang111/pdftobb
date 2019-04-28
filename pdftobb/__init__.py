@@ -1,1 +1,2 @@
+from pdftobb import combine_textboxes
 from pdftobb.combine_textboxes import extract_textboxes

@@ -2,7 +2,7 @@ import sys
 import os
 
 from bs4 import BeautifulSoup
-from combine_textboxes import extract_textboxes
+from pdftobb.combine_textboxes import extract_textboxes
 
 
 def run_pdftobb():
