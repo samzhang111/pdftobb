@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: pdftobb
-Version: 0.2.1
+Version: 0.2.2
 Summary: Parse bounding boxes from PDFs
 Home-page: https://github.com/samzhang111/pdftobb
 Author: Sam Zhang
 Author-email: shimian.zhang@gmail.com
 License: MIT
-Download-URL: https://github.com/samzhang111/pdftobb/archive/0.2.tar.gz
+Download-URL: https://github.com/samzhang111/pdftobb/archive/0.2.2.tar.gz
 Description: UNKNOWN
 Keywords: pdf,parser
 Platform: UNKNOWN

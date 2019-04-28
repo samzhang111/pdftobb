@@ -4,13 +4,13 @@ from distutils.core import setup
 setup(
   name='pdftobb',
   packages=setuptools.find_packages(),
-  version='0.2.1',
+  version='0.2.2',
   license='MIT',
   description='Parse bounding boxes from PDFs',
   author='Sam Zhang',
   author_email='shimian.zhang@gmail.com',
   url='https://github.com/samzhang111/pdftobb',
-  download_url='https://github.com/samzhang111/pdftobb/archive/0.2.tar.gz',
+  download_url='https://github.com/samzhang111/pdftobb/archive/0.2.2.tar.gz',
   entry_points={
       'console_scripts': [
           'pdftobb=pdftobb.pdftobb:run_pdftobb'
