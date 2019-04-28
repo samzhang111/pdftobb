@@ -1,0 +1,12 @@
+README
+setup.cfg
+setup.py
+pdftobb/__init__.py
+pdftobb/combine_textboxes.py
+pdftobb/pdftobb.py
+pdftobb.egg-info/PKG-INFO
+pdftobb.egg-info/SOURCES.txt
+pdftobb.egg-info/dependency_links.txt
+pdftobb.egg-info/entry_points.txt
+pdftobb.egg-info/requires.txt
+pdftobb.egg-info/top_level.txt
